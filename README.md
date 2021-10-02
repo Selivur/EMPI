@@ -1,0 +1,1 @@
+# It`s a project which count same words which you get him and give you information which you can use to find similar documents.
